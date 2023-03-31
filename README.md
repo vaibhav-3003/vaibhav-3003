@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**vaibhav-3003/vaibhav-3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![svg](https://user-images.githubusercontent.com/105808552/229148225-fcadec8a-e2c5-4820-9eaa-75ebc581881a.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><em>A bachelor student at <a href="https://agcamritsar.in/">Amritsar Group of Colleges</a>, majoring in Computer Science. 😊</br>
+</em></p>
+
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, Python, Java, Kotlin],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Tailwind", "Bootstrap"]
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["MongoDB", "mySQL", "Oracle"],
+      mobile: ["Android"]
+   },
+   currentOccupation: ["3rd year student, open for internship opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
