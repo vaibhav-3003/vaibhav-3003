@@ -16,7 +16,8 @@ const aboutMe = {
          css: ["Tailwind", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express"]
+         js: ["Node", "Express"],
+         php: ["PHP"]
       },
       databases: ["MongoDB", "mySQL", "Oracle"],
       mobile: ["Android"]
