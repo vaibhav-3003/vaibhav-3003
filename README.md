@@ -22,7 +22,7 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "Oracle"],
       mobile: ["Android"]
    },
-   currentOccupation: ["3rd year student, open for internship opportunities"],
+   currentOccupation: ["Final year student, open for internship opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
