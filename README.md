@@ -2,7 +2,7 @@
 
 [![svg](https://user-images.githubusercontent.com/105808552/229148225-fcadec8a-e2c5-4820-9eaa-75ebc581881a.svg)](#)
 
-<p><em>A bachelor student at <a href="https://agcamritsar.in/">Amritsar Group of Colleges</a>, majoring in Computer Science. 😊</br>
+<p><em>A Web Developer at <a href="https://zillit.com/">Zillit. 😊</br>
 </em></p>
 
 
@@ -12,12 +12,11 @@ const aboutMe = {
    code: ["Javascript", "HTML", "CSS", "Python", "Java", "Kotlin"],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React","Next"],
          css: ["Tailwind", "Bootstrap"]
       },
       backEnd: {
          js: ["Node", "Express"],
-         php: ["PHP"]
       },
       databases: ["MongoDB", "mySQL", "Oracle"],
       mobile: ["Android"]
