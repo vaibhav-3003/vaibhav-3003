@@ -2,8 +2,8 @@
 
 [![svg](https://user-images.githubusercontent.com/105808552/229148225-fcadec8a-e2c5-4820-9eaa-75ebc581881a.svg)](#)
 
-<p><em>A Web Developer at <a href="https://zillit.com/">Zillit. 😊</br>
-</em></p>
+<p><em>A Web Developer at <a href="https://zillit.com/" target="_blank">Zillit.</a>
+</em>😊</p>
 
 
 ```javascript
